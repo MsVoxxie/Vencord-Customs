@@ -14,6 +14,6 @@
     left: calc(50% - 100px);
     width: 200px;
     height: 200px;
-    background: url("") center/80% no-repeat !important;
+    background: url("https://raw.githubusercontent.com/MsVoxxie/Vencord-Customs/main/Loading-CSS/SpyLoader/kangel-dance.gif?raw=true") center/80% no-repeat !important;
     image-rendering: pixelated;
   }

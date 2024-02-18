@@ -1,0 +1,19 @@
+:root .container__4bde3 > .content__0e954 {
+    position: relative;
+  }
+  :root .container__4bde3 > .content__0e954 .ready__61f2f {
+    display: none;
+  }
+  :root .container__4bde3 > .content__0e954 .ready__61f2f + .text__32559 {
+    top: 50px;
+  }
+  :root .container__4bde3 > .content__0e954::before {
+    content: "";
+    position: absolute;
+    bottom: 10px;
+    left: calc(50% - 100px);
+    width: 200px;
+    height: 200px;
+    background: url("") center/80% no-repeat !important;
+    image-rendering: pixelated;
+  }
